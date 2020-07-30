@@ -39,7 +39,7 @@ Please cite the following paper in your publications if it helps your research:
 ```
 @article{liu2020iterative,
   title  = {Iterative Local-Global Collaboration Learning towards One-Shot Video Person Re-Identification},
-  author = {Liu, Meng and Qu, Leigang and Nie, Liqiang and Liu, Maofu, Duan, Lingyu and Chen, Baoquan},
+  author = {Liu, Meng and Qu, Leigang and Nie, Liqiang and Liu, Maofu, and Duan, Lingyu and Chen, Baoquan},
   journal= {},
   year   = {2020}, 
   volume = {}, 
