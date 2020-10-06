@@ -1,6 +1,6 @@
 # VOLTA
 
-PyTorch code for VOLTA described in the paper "Iterative Local-Global Collaboration Learning towards One-Shot Video Person Re-Identification" [[Link]](http://XXX). This code is based on the [Open-ReID](https://github.com/Cysu/open-reid) library and [EUG](<https://github.com/Yu-Wu/Exploit-Unknown-Gradually>). 
+PyTorch code for VOLTA described in the paper "Iterative Local-Global Collaboration Learning towards One-Shot Video Person Re-Identification" [[Link]](http://XXX)(TIP 2020). This code is based on the [Open-ReID](https://github.com/Cysu/open-reid) library and [EUG](<https://github.com/Yu-Wu/Exploit-Unknown-Gradually>). 
 
 ## Preparation
 ### Dependencies
@@ -40,7 +40,7 @@ Please cite the following paper in your publications if it helps your research:
 @article{liu2020iterative,
   title  = {Iterative Local-Global Collaboration Learning towards One-Shot Video Person Re-Identification},
   author = {Liu, Meng and Qu, Leigang and Nie, Liqiang and Liu, Maofu, and Duan, Lingyu and Chen, Baoquan},
-  journal= {},
+  journal= {IEEE Transactions on Image Processing},
   year   = {2020}, 
   volume = {}, 
   number = {}, 
