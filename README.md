@@ -41,11 +41,10 @@ Please cite the following paper in your publications if it helps your research:
   title  = {Iterative Local-Global Collaboration Learning towards One-Shot Video Person Re-Identification},
   author = {Liu, Meng and Qu, Leigang and Nie, Liqiang and Liu, Maofu, and Duan, Lingyu and Chen, Baoquan},
   journal= {IEEE Transactions on Image Processing},
-  year   = {2020}, 
-  year={2020},
-  volume={29},
-  number={},
-  pages={9360-9372},
+  year   = {2020},
+  volume = {29},
+  number = {},
+  pages  = {9360-9372},
 } 
 ```
 
